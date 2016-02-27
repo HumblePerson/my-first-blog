@@ -1,0 +1,6 @@
+*.pyc
+__pycach__
+myvenv
+db.sqlite3
+/statis
+.DS_Store
